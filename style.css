@@ -1,0 +1,38 @@
+body{
+    background-color: #91928d;
+    color: #333533;
+}
+
+#self{
+    border-radius: 40px;
+    width: 230px;
+    position: absolute;
+    left: 850px;
+    bottom: 290px;
+    border: 5px solid double black;
+
+    
+}
+
+h2{
+    color: #333533;
+    font-size: 1.5em ;
+}
+.conteúdo-sessões{
+    margin-top: 5px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #9baaa3;
+    border-radius: 4px;
+    width: 90%;
+    
+}
+
+#linktrybe, #linkedin{
+    font-weight: 200;
+}
+
+.título-sessões{
+    margin-bottom: 0px;
+}
